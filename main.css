@@ -1,0 +1,102 @@
+
+*{
+max-width: 1024px;
+margin:auto;
+}
+body{
+   
+   background-color: rgb(0, 0, 0);
+   background-image: url(./img/mao-desenhada-ola-padrao-de-palavra-em-diferentes-idiomas_23-2147865891.jpg);
+
+  }
+    #top-head{
+        backdrop-filter: blur(10px) ;
+        background-color: #b4a801;;
+    }
+    .top-h1{
+       height: 100px;
+       display: flex;
+       justify-content: center;
+       flex-direction: column;
+       align-items: center;
+   }
+    span{
+      color: #f3e300;
+      padding-left: 10px;
+    }
+    .bg-gradient{
+        background-color:  rgba(216, 166, 0, 0.349) !important;
+        backdrop-filter: blur(20px) !important;
+    }
+    .nav-item > a{
+    
+        color: #ffffff !important;
+    }
+    .nav-item:hover{
+      background-color: #f38a00 !important;
+
+    }
+    .cto-1{
+        background-color: #f38a0000;
+        backdrop-filter: blur(10px);
+        height: 400px;
+        width: 100%;
+    }
+    .cto-2{
+        background-color: #000000;
+        height: 400px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .carousel-cop{
+        background-color: rgba(0, 0, 0, 0.781);
+        width: 30%;
+        border-radius: 20px;
+        color: #f38a00;
+        backdrop-filter: blur(10px);
+    }
+    .carousel-indicators {
+    position: absolute !important;
+    right: 825px !important;
+    bottom: 200px !important;
+    left: -7px !important;
+    }
+    .box-1{
+            
+        color: #e7e30c;
+
+    }
+    .section1{
+        background-color:  #b4a801; /*  rgba(216, 166, 0, 0.849)*/;
+        display: flex;
+    }
+    .bloco1{
+        background-color: #ffffff;
+        position: relative;
+        border-radius: 5px;
+        padding: 10px;
+    
+    }
+    .img1{
+        border-radius: 5px !important;
+    }
+    .Cardapio{
+        background-color:  rgba(0, 0, 0, 0.781);
+    }
+    .card{
+        background-color:  rgba(214, 175, 2, 0.863) !important;
+    }
+    .FAC{
+        color: #f38a00;
+
+    }
+    .form1{
+        background-color: #0507003a;
+        border-radius: 20px;
+        backdrop-filter: blur(20px);
+        border-color: #000000;
+        border: 1px solid #000000;
+        color: #ffffff;
+    }
+
